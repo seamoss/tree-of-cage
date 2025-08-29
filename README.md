@@ -34,4 +34,6 @@ This is an early prototype - designed for playtesting with paper, spreadsheets, 
 - Web/native application DM support
 - Full printable card deck
 - Illustrated Tree board
+- Board generator (digital/online)
+- Game tracker/state saving for quick setup
 - More archetypes (every Cage role… ever)
