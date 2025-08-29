@@ -29,7 +29,7 @@ Through bizarre Scenes, wild PvP duels, and evolving archetypes, players race to
 
 ## Status
 
-This is an early prototype — designed for playtesting with paper, spreadsheets, and dice. Future expansions may include:
+This is an early prototype - designed for playtesting with paper, spreadsheets, and dice. Future expansions may include:
 
 - Web/native application DM support
 - Full printable card deck
