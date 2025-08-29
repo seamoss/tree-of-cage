@@ -4,7 +4,7 @@ Tree of Cage is a tabletop board game of destiny, chaos, and Nic Cage archetypes
 
 Each player begins as a humble Proto-Cage (early career roles like Valley Girl Randy or Raising Arizona H.I.) and climbs the branching tree of Nicolas Cage personas.
 
-Through bizarre Scenes, wild PvP duels, and evolving archetypes, players race to ascend into Cage Prime — either as the noble Oscar Cage or the unhinged Meme God Cage.
+Through bizarre Scenes, wild PvP duels, and evolving archetypes, players race to ascend into Cage Prime - either as the noble Oscar Cage or the unhinged Meme God Cage.
 
 ## How It Works
 
